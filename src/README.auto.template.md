@@ -78,7 +78,15 @@ A passionate, mostly self-taught software engineer, also know as an `Arch + Wind
 You may already know me from social media such as my Threads, Discord, IG etc... or if you haven't, nice to meet you 😊!
 <br>
 
-# 📦 Projects
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1>
+        📦 Projects
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 ### 🔥 Featured Projects
 
@@ -140,7 +148,15 @@ You may already know me from social media such as my Threads, Discord, IG etc...
   </picture>
 </a>
 
-# 🔧 Skillset
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1>
+        🔧 Skillset
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 ### Languages & Framework
 <img src="https://skillicons.dev/icons?i=py,docker,astro,html,js,ts,jquery,nginx,nodejs,vue,c,cpp,css,bash,r" alt="Languages & Framework" />
@@ -160,13 +176,29 @@ Oh, and last but not least, I use PVE (Proxmox Virtual Environment) for my homel
 ### Other tools
 <img src="https://skillicons.dev/icons?i=au,ae,pr,ps" alt="Other tools" />
 
-# 🌍 Community & Achievements
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1>
+        🌍 Community & Achievements
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 - [Gemini Certified Educator](%GOOGLE_GEMINI_CERTIFICATE_LINK%), since 2025.
 
 - Member of <a href="https://discord.com/channels/976332206144380958/1113706485831176232">HKAICT (香港 ICT 學苑)</a>, since 2024.
 
-# 🤝 How to reach me
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1>
+        🤝 How to reach me
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 Email at [`%GENERAL_EMAIL%`](mailto:%GENERAL_EMAIL%) for general messaging, or [`%DEV_EMAIL%`](mailto:%DEV_EMAIL%) if you're looking for some formal collaboration.
 
@@ -176,7 +208,15 @@ You can also connect with [my public GPG key](%GITHUB_LINK%.gpg) or my Discord p
 
 Head over to my [gravatar](%GRAVATAR_LINK%) page or my [personal site](PERSONAL_WEBSITE_LINK) for more info.
 
-# ❤️ Support
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1>
+        ❤️ Support
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 If you really appreciate my work, consider
 
@@ -189,13 +229,14 @@ to cheer me up! 😊🥺
 <br>
 
 <div id="toc" align="center">
-  <summary>
-    <h2>
-      Thank you and have a great time ヽ(́◕◞౪◟◕‵)ﾉ
-    </h2>
-  </summary>
+  <ul style="list-style: none">
+    <summary>
+      <h2>
+        Thank you and have a great time ヽ(́◕◞౪◟◕‵)ﾉ
+      </h2>
+    </summary>
+  </ul>
 </div>
-
 
 <!--Links in use in this markdown for references-->
 <!--
