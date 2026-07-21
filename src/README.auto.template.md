@@ -73,14 +73,12 @@
 
 [![committers.top badge](%GITHUB_USER_BADGE_SVG%)](%GITHUB_USER_BADGE_LINK%)
 
-<br>
-
 A passionate, mostly self-taught software engineer, also know as an `Arch + Windows` user, ACGM enthusiast, cyclist and audiophile (?) from Hong Kong.
 
 You may already know me from social media such as my Threads, Discord, IG etc... or if you haven't, nice to meet you 😊!
 <br>
 
-## 📦 Projects
+# 📦 Projects
 
 ### 🔥 Featured Projects
 
@@ -142,49 +140,33 @@ You may already know me from social media such as my Threads, Discord, IG etc...
   </picture>
 </a>
 
-<br>
-
-## 🔧 Skillset
+# 🔧 Skillset
 
 ### Languages & Framework
 <img src="https://skillicons.dev/icons?i=py,docker,astro,html,js,ts,jquery,nginx,nodejs,vue,c,cpp,css,bash,r" alt="Languages & Framework" />
-<br>
-<br>
 
 ### Development platforms & IDE
 <img src="https://skillicons.dev/icons?i=cloudflare,workers,vercel,git,vscode,visualstudio,azure,neovim,pycharm" alt="Development platforms & IDE" />
-<br>
-<br>
 
 ### OS
 <img src="https://skillicons.dev/icons?i=arch,debian,linux,ubuntu,kali,redhat,raspberrypi,nix,windows,apple" alt="OS" />
 <br>
-<br>
 Oh, and last but not least, I use PVE (Proxmox Virtual Environment) for my homelab.
-<br>
 <br>
 
 ### Currently Learning
 <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,dotnet,electron,tailwind,rust,wordpress,java,jenkins,mysql,prisma,react,redis,sentry,spring,tailwind,tauri,webpack" alt="Currently Learning" />
-<br>
-<br>
 
 ### Other tools
 <img src="https://skillicons.dev/icons?i=au,ae,pr,ps" alt="Other tools" />
 
-<br>
-<br>
-<br>
-
-## 🌍 Community & Achievements
+# 🌍 Community & Achievements
 
 - [Gemini Certified Educator](%GOOGLE_GEMINI_CERTIFICATE_LINK%), since 2025.
 
 - Member of <a href="https://discord.com/channels/976332206144380958/1113706485831176232">HKAICT (香港 ICT 學苑)</a>, since 2024.
 
-<br>
-
-## 🤝 How to reach me
+# 🤝 How to reach me
 
 Email at [`%GENERAL_EMAIL%`](mailto:%GENERAL_EMAIL%) for general messaging, or [`%DEV_EMAIL%`](mailto:%DEV_EMAIL%) if you're looking for some formal collaboration.
 
@@ -194,22 +176,19 @@ You can also connect with [my public GPG key](%GITHUB_LINK%.gpg) or my Discord p
 
 Head over to my [gravatar](%GRAVATAR_LINK%) page or my [personal site](PERSONAL_WEBSITE_LINK) for more info.
 
-<br>
-
-## ❤️ Support
+# ❤️ Support
 
 If you really appreciate my work, consider
 
-&emsp;**1\.** Leaving my repositories with a ⭐ or
+- Leaving my repositories with a ⭐ or
 
-&emsp;**2\.** [Sponsor me on GitHub ☕](SPONSOR_LINK) (optional)
+- [Sponsor me on GitHub ☕](SPONSOR_LINK) (optional)
 
 to cheer me up! 😊🥺
 
 <br>
-<br>
 
-### Thank you and have a great time ヽ(́◕◞౪◟◕‵)ﾉ
+<h2 align="center">Thank you and have a great time ヽ(́◕◞౪◟◕‵)ﾉ</h2>
 
 <!--Links in use in this markdown for references-->
 <!--
