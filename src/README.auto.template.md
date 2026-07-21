@@ -222,7 +222,7 @@ If you really appreciate my work, consider
 
 - Leaving my repositories with a ⭐ or
 
-- [Sponsor me on GitHub ☕](SPONSOR_LINK) (optional)
+- [Sponsor me on GitHub ☕](%SPONSOR_LINK%) (optional)
 
 to cheer me up! 😊🥺
 
