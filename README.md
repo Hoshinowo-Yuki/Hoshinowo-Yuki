@@ -78,20 +78,14 @@
 
 <br>
 
-I'm a passionate, mostly self-taught software engineer (aka. an open-source and ACGM enthusiast) from Hong Kong, currently as a INFE student under EE department.
+A passionate, mostly self-taught software engineer, also know as an `Arch + Windows` user, ACGM enthusiast, cyclist and audiophile (?) from Hong Kong.
 
-My coding jounery started at around age 8, the moment I knew `ipconfig` in Windows. However, considered I have started "real-programming" on late 2022 and building full-stack web applications since 2023, I'm actually not having that much of potential tbh...
-
-You may already know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my IG / Threads, my blog... or if you haven't, nice to meet you 😊!
-
+You may already know me from social media such as my Threads, Discord, IG etc... or if you haven't, nice to meet you 😊!
 <br>
 
 # 📦 Projects
 
-I usually work on whatever sparks my interest and enjoy learning new things with each project I take on, but generally
-
 ### 🔥 Featured Projects
-
 
 <a href="https://github.com/HikariApp/Hikari">
   <picture>
@@ -169,12 +163,8 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 <img align="center" src="https://skillicons.dev/icons?i=arch,debian,linux,ubuntu,kali,redhat,raspberrypi,nix,windows,apple" alt="OS" />
 <br>
 <br>
-Oh, and the most important one, PVE 
+Oh, and last but not least, I use PVE (Proxmox Virtual Environment) for my homelab.
 <br>
-<br>
-
-I use Arch on my main desktop btw, and running a Windows 11 VM with GPU-passthrough for Adobe applications along with that XDD
-
 <br>
 
 ### Currently Learning
@@ -191,9 +181,9 @@ I use Arch on my main desktop btw, and running a Windows 11 VM with GPU-passthro
 
 # 🌍 Community & Achievements
 
-As a chronically online user, I usually participate in some communities which suits my interest. Currently, I'm one of the member in <a href="https://discord.com/channels/976332206144380958/1113706485831176232">HKAICT (香港 ICT 學苑)</a>
+- [Gemini Certified Educator](https://edu.google.accredible.com/11a9f41b-cc6e-4ff9-af82-3c202fdb1ecd#acc.iXJpgVLn), since 2025.
 
-I'm also become one of the [Gemini Certified Educator](https://edu.google.accredible.com/11a9f41b-cc6e-4ff9-af82-3c202fdb1ecd#acc.iXJpgVLn) right now, which was my first personal certification from Google (and definitely not the last)
+- Member of <a href="https://discord.com/channels/976332206144380958/1113706485831176232">HKAICT (香港 ICT 學苑)</a>, since 2024.
 
 <br>
 
@@ -203,9 +193,9 @@ Email at [`hi@lolicon.io`](mailto:hi@lolicon.io) for general messaging, or [`hos
 
 You can also connect with [my public GPG key](https://github.com/Hoshinowo-Yuki.gpg) or my Discord profile, as shown in below :)
 
-<a href="https://discordapp.com/users/885756325798227988"><img width="400" src="https://api.lolicon.io/discord-api/user/885756325798227988" alt="You can also reach me by Discord"></img></a>
+<a href="https://discordapp.com/users/885756325798227988"><img width="400" src="https://api.lolicon.io/discord-api/user/885756325798227988" alt="My Discord Profile"></img></a>
 
-Head over to my [gravatar](https://gravatar.com/hoshinowoyuki) page for more info
+Head over to my [gravatar](https://gravatar.com/hoshinowoyuki) page or my [personal site](PERSONAL_WEBSITE_LINK) for more info.
 
 <br>
 
@@ -215,32 +205,9 @@ If you really appreciate my work, consider
 
 **1\.** Leaving my repositories with a ⭐ or
 
-**2\.** [Buy me a cup of coffee ☕][Buy_me_a_coffee] (currently unavailable, will be back soon <3)
+**2\.** [Sponsor me on GitHub ☕](SPONSOR_LINK) (optional)
 
 to cheer me up! 😊🥺
-
-<br>
-
-# 💬 Favorite Quotes?
-
-As an EE student, here are some of my favorite quotes related to electricity :P
-
-#### "Sorry guys, the pain is too much for me, but I'm sure it is... AW! ... IT OPENED! ... IT OPENED! ARGH..." &ensp;—&ensp; *[ElectroBOOM](https://www.youtube.com/watch?v=GlM6PE2kKVY&t=635s), 2017*
-
-#### "It's a strange pain. It's as if somebody's stabbing your finger, but the blade - it doesn't stop there. It keeps going through your veins until it reaches your heart. I love it." &ensp;—&ensp; *[ElectroBOOM](https://www.youtube.com/watch?v=CkGVMWK10qU&t=219s), 2014*
-
-#### "Please join me for the first time to hear how it sounds, and one! two! three! four! ..." &ensp;—&ensp; *[ElectroBOOM](https://www.youtube.com/watch?v=TwIvUbOhcKE&t=36s), 2013*
-
-<br>
-<br>
-
-(Just kidding XDDD)
-
-<br>
-
-#### "Sometimes it’s the journey that teaches you a lot about your destination." &ensp;—&ensp; *Drake, 2012*
-
-#### "Focus on the solution, not the problem." &ensp;—&ensp; *Jim Rohn, 1970s*
 
 <br>
 <br>
@@ -248,11 +215,6 @@ As an EE student, here are some of my favorite quotes related to electricity :P
 ### Thank you and have a great time ヽ(́◕◞౪◟◕‵)ﾉ
 
 <!--Links in use in this markdown for references-->
-
-[Buy_me_a_coffee]: https://buymeacoffee.com/
-
-
-
 <!--
 **Hoshinowo-Yuki/Hoshinowo-Yuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
