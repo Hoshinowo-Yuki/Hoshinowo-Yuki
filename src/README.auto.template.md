@@ -188,7 +188,14 @@ to cheer me up! 😊🥺
 
 <br>
 
-<h2 align="center">Thank you and have a great time ヽ(́◕◞౪◟◕‵)ﾉ</h2>
+<div id="toc" align="center">
+  <summary>
+    <h2>
+      Thank you and have a great time ヽ(́◕◞౪◟◕‵)ﾉ
+    </h2>
+  </summary>
+</div>
+
 
 <!--Links in use in this markdown for references-->
 <!--
