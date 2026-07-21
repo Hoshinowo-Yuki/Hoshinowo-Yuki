@@ -73,17 +73,20 @@
 
 [![committers.top badge](https://user-badge.committers.top/hong_kong/Hoshinowo-Yuki.svg)](https://user-badge.committers.top/hong_kong/Hoshinowo-Yuki)
 
-<!-- Temp refactor for now -->
-<div align="center">
-
-<br>
-
 A passionate, mostly self-taught software engineer, also know as an `Arch + Windows` user, ACGM enthusiast, cyclist and audiophile (?) from Hong Kong.
 
 You may already know me from social media such as my Threads, Discord, IG etc... or if you haven't, nice to meet you 😊!
 <br>
 
-# 📦 Projects
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1>
+        📦 Projects
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 ### 🔥 Featured Projects
 
@@ -145,49 +148,57 @@ You may already know me from social media such as my Threads, Discord, IG etc...
   </picture>
 </a>
 
-<br>
-
-# 🔧 Skillset
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1>
+        🔧 Skillset
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 ### Languages & Framework
-<img align="center" src="https://skillicons.dev/icons?i=py,docker,astro,html,js,ts,jquery,nginx,nodejs,vue,c,cpp,css,bash,r" alt="Languages & Framework" />
-<br>
-<br>
+<img src="https://skillicons.dev/icons?i=py,docker,astro,html,js,ts,jquery,nginx,nodejs,vue,c,cpp,css,bash,r" alt="Languages & Framework" />
 
 ### Development platforms & IDE
-<img align="center" src="https://skillicons.dev/icons?i=cloudflare,workers,vercel,git,vscode,visualstudio,azure,neovim,pycharm" alt="Development platforms & IDE" />
-<br>
-<br>
+<img src="https://skillicons.dev/icons?i=cloudflare,workers,vercel,git,vscode,visualstudio,azure,neovim,pycharm" alt="Development platforms & IDE" />
 
 ### OS
-<img align="center" src="https://skillicons.dev/icons?i=arch,debian,linux,ubuntu,kali,redhat,raspberrypi,nix,windows,apple" alt="OS" />
-<br>
+<img src="https://skillicons.dev/icons?i=arch,debian,linux,ubuntu,kali,redhat,raspberrypi,nix,windows,apple" alt="OS" />
 <br>
 Oh, and last but not least, I use PVE (Proxmox Virtual Environment) for my homelab.
 <br>
-<br>
 
 ### Currently Learning
-<img align="center" src="https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,dotnet,electron,tailwind,rust,wordpress,java,jenkins,mysql,prisma,react,redis,sentry,spring,tailwind,tauri,webpack" alt="Currently Learning" />
-<br>
-<br>
+<img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,dotnet,electron,tailwind,rust,wordpress,java,jenkins,mysql,prisma,react,redis,sentry,spring,tailwind,tauri,webpack" alt="Currently Learning" />
 
 ### Other tools
-<img align="center" src="https://skillicons.dev/icons?i=au,ae,pr,ps" alt="Other tools" />
+<img src="https://skillicons.dev/icons?i=au,ae,pr,ps" alt="Other tools" />
 
-<br>
-<br>
-<br>
-
-# 🌍 Community & Achievements
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1>
+        🌍 Community & Achievements
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 - [Gemini Certified Educator](https://edu.google.accredible.com/11a9f41b-cc6e-4ff9-af82-3c202fdb1ecd#acc.iXJpgVLn), since 2025.
 
 - Member of <a href="https://discord.com/channels/976332206144380958/1113706485831176232">HKAICT (香港 ICT 學苑)</a>, since 2024.
 
-<br>
-
-# 🤝 How to reach me
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1>
+        🤝 How to reach me
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 Email at [`hi@lolicon.io`](mailto:hi@lolicon.io) for general messaging, or [`hoshinoyuki@lolicon.io`](mailto:hoshinoyuki@lolicon.io) if you're looking for some formal collaboration.
 
@@ -197,22 +208,35 @@ You can also connect with [my public GPG key](https://github.com/Hoshinowo-Yuki.
 
 Head over to my [gravatar](https://gravatar.com/hoshinowoyuki) page or my [personal site](PERSONAL_WEBSITE_LINK) for more info.
 
-<br>
-
-# ❤️ Support
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1>
+        ❤️ Support
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 If you really appreciate my work, consider
 
-**1\.** Leaving my repositories with a ⭐ or
+- Leaving my repositories with a ⭐ or
 
-**2\.** [Sponsor me on GitHub ☕](SPONSOR_LINK) (optional)
+- [Sponsor me on GitHub ☕](https://github.com/sponsors/Hoshinowo-Yuki) (optional)
 
 to cheer me up! 😊🥺
 
 <br>
-<br>
 
-### Thank you and have a great time ヽ(́◕◞౪◟◕‵)ﾉ
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <h2>
+        Thank you and have a great time ヽ(́◕◞౪◟◕‵)ﾉ
+      </h2>
+    </summary>
+  </ul>
+</div>
 
 <!--Links in use in this markdown for references-->
 <!--
@@ -230,4 +254,3 @@ Hi 👋, I'm @Hoshinowo-Yuki
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
