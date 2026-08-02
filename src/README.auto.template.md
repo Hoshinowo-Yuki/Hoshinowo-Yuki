@@ -69,7 +69,7 @@
 
 [![committers.top badge](%GITHUB_USER_BADGE_SVG%)](%GITHUB_USER_BADGE_LINK%)
 
-Hi there! I'm %NICK%, You can call me %NICK%, %NICK_ENGLISH%, %NICK_KANJI% (or even %NICK_HIRAGANA% if you want to be fancy 😎) on the Internet...r if we were friends, just ignore what I'm saying and call me whatever you like XD
+Hi there! I'm %NICK%, You can call me %NICK%, %NICK_ENGLISH%, %NICK_KANJI% (or even %NICK_HIRAGANA% if you want to be fancy 😎) on the Internet... or if we were friends, just ignore what I'm saying and call me whatever you like XD
 
 You may already know me from social media such as my Threads, Discord, IG etc... or if you haven't, nice to meet you 😊!
 <br>
