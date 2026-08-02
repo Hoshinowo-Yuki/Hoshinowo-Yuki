@@ -62,6 +62,7 @@
       </h1>
     </summary>
   </ul>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=A+passionate+Software+Engineer;also+as+a+self-taught+Prompt+Engineer;Born+%26+originated+from+Hong+Kong+SAR;aka.+an+Arch+Linux+%2B+Windows+NT+user;ACGM+enthusiast%2C+cyclist%2C+audiophile" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -73,7 +74,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/hong_kong/Hoshinowo-Yuki.svg)](https://user-badge.committers.top/hong_kong/Hoshinowo-Yuki)
 
-A passionate, mostly self-taught software engineer, also know as an `Arch + Windows` user, ACGM enthusiast, cyclist and audiophile (?) from Hong Kong.
+Hi there! I'm ゆき, You can call me ゆき, Hoshinowo Yuki, 星野有希 (or even ホシノゆき if you want to be fancy 😎) on the Internet... or if we were friends, just ignore what I'm saying and call me whatever you like XD
 
 You may already know me from social media such as my Threads, Discord, IG etc... or if you haven't, nice to meet you 😊!
 <br>
