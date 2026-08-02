@@ -69,7 +69,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/hong_kong/Hoshinowo-Yuki.svg)](https://user-badge.committers.top/hong_kong/Hoshinowo-Yuki)
 
-Hi there! I'm ゆき, You can call me ゆき, Hoshinowo Yuki, 星野有希 (or even ホシノゆき if you want to be fancy 😎) on the Internet...r if we were friends, just ignore what I'm saying and call me whatever you like XD
+Hi there! I'm ゆき, You can call me ゆき, Hoshinowo Yuki, 星野有希 (or even ホシノゆき if you want to be fancy 😎) on the Internet... or if we were friends, just ignore what I'm saying and call me whatever you like XD
 
 You may already know me from social media such as my Threads, Discord, IG etc... or if you haven't, nice to meet you 😊!
 <br>
