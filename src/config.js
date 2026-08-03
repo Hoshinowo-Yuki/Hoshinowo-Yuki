@@ -1,7 +1,7 @@
 export const personalProfileVars = {
   NICK: "ゆき",
   NICK_KANJI: "星野有希",
-  NICK_ENGLISH: "Hoshinowo Yuki",
+  NICK_ENGLISH: "Hoshino Yuki",
   NICK_HIRAGANA: "ホシノゆき",
   USERNAME: "Hoshinowo-Yuki",
   DESCRIPTION: "A software developer and prompt engineer that was born in HK",
